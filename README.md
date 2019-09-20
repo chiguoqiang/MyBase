@@ -1,4 +1,5 @@
 # MyBase
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/chiguoqiang/MyBase.svg?style=flat)](https://travis-ci.org/chiguoqiang/MyBase)
 [![Version](https://img.shields.io/cocoapods/v/MyBase.svg?style=flat)](https://cocoapods.org/pods/MyBase)
@@ -27,3 +28,6 @@ chiguoqiang, chigq@aixiangdao.com
 ## License
 
 MyBase is available under the MIT license. See the LICENSE file for more info.
+=======
+基础组件仓库
+>>>>>>> 3fbbbf448f3df1d7c3fb9e620adaad175f9df123
