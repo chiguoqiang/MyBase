@@ -1,0 +1,16 @@
+PODS:
+  - MyBase (0.1.0)
+
+DEPENDENCIES:
+  - MyBase (from `../`)
+
+EXTERNAL SOURCES:
+  MyBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyBase: 4dc3482078ad914315a1e6d78f2f935a2333cf43
+
+PODFILE CHECKSUM: ccb2332cf4960d6bbc5bc13bd040f0f0893d466c
+
+COCOAPODS: 1.5.3

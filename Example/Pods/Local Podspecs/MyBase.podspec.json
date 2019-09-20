@@ -1,0 +1,22 @@
+{
+  "name": "MyBase",
+  "version": "0.1.0",
+  "summary": "A short description of MyBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chiguoqiang/MyBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chiguoqiang": "chigq@aixiangdao.com"
+  },
+  "source": {
+    "git": "https://github.com/chiguoqiang/MyBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyBase/Classes/**/*"
+}
